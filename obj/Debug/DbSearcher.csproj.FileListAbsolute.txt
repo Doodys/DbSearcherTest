@@ -1,0 +1,7 @@
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\obj\Debug\DbSearcher.csprojAssemblyReference.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\obj\Debug\DbSearcher.csproj.CoreCompileInputs.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\bin\Debug\DbSearcher.exe.config
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\bin\Debug\DbSearcher.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\bin\Debug\DbSearcher.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\obj\Debug\DbSearcher.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\DbSearcher\obj\Debug\DbSearcher.pdb
