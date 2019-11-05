@@ -11,6 +11,7 @@ namespace DbSearcher
         static void Main(string[] args)
         {
             getData();
+            Console.WriteLine("\nPress any key...");
             Console.ReadKey();
         }
         static void getData()
